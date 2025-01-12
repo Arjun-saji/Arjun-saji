@@ -26,6 +26,6 @@ I am a recent graduate with a B.Tech in ECE from KTU University<br><br>I am a hi
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=neethukbj&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Arjun-saji&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
